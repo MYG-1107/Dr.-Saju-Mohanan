@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://myg-1107.github.io/Dr.-Saju-Mohanan/sitemap.xml
